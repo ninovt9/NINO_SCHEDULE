@@ -1,0 +1,11 @@
+group A
+	France
+	Romania
+
+group B
+	England
+	Welsh
+
+schedule
+	France 1:0 Romania
+	England 0:5 Welsh

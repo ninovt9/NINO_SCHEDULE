@@ -1,0 +1,11 @@
+pidan A
+	aaa
+
+group A
+	France%$*
+	
+group B
+England
+
+schedule
+	France 1-0 Romania
