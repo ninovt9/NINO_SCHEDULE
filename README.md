@@ -7,15 +7,18 @@
 ###version 1.0 <br>
 ####使用方法：
 	在控制台窗口中输入文件路径，得出排名结果：
-	
+	![](https://github.com/ninovt9/NINO_SCHEDULE/blob/master/image/1.png)
 
 ####文件格式：
 	文中代码通过缩进标识代码逻辑，由两部分组成：
 		group：联赛/小组成员，示例如下。
+
 			group name
 				England
 				Italia
+
 		schedule：赛程结果。
+
 			schedule
 				England 1:0 Italia
 
